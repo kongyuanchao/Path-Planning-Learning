@@ -1,0 +1,9 @@
+Host github.com
+# User git
+user kongyuanchao@hotmail.com
+Hostname ssh.github.com
+# Hostname github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+# Port 22
+Port 443

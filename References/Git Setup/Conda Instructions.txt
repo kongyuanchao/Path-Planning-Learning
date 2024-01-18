@@ -1,0 +1,22 @@
+conda --version
+conda list python/conda list
+conda search matplotlib
+
+conda update -n base -c defaults conda
+%% Update conda before install matplotlib
+conda install -c conda-forge matplotlib
+
+
+1 列举环境:conda env list
+2 创建环境: conda create --name xxx python=3.7
+3 激活环境: source activate xxx
+4 退出环境: source deactivate
+
+conda create --name env311 python=3.11.5
+?source activate env311
+conda activate env311
+conda install -c conda-forge matplotlib
+
+Anaconda3-2023.09-0-Windows-x86_64
+
+matplotlib
