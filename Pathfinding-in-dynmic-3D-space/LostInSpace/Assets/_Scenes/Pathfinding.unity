@@ -5632,6 +5632,11 @@ Prefab:
       propertyPath: searchSpace
       value: 
       objectReference: {fileID: 1354481172}
+    - target: {fileID: 114897324292962966, guid: fc4978ab839863a4aa289769de8b61e8,
+        type: 2}
+      propertyPath: creationMethod
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc4978ab839863a4aa289769de8b61e8, type: 2}
   m_IsPrefabAsset: 0

@@ -6,3 +6,6 @@ success
 
 :expanded: 348899:total algorithm time: 3670
 A* with epsilon 2
+A* with epsilon 2
+A* with epsilon 2
+A* with epsilon 2

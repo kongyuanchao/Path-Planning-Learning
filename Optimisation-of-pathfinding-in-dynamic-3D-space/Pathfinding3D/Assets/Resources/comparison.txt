@@ -233,3 +233,9 @@ distanceTraveled:0Theta* with epsilon 1
 distanceTraveled:0Theta* with epsilon 1
 distanceTraveled:0A* with epsilon 1
 distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:114.2408:total algorithm time: 32563 : total expanded: 1481467
+distanceTraveled:113.2096:total algorithm time: 19903 : total expanded: 4328159

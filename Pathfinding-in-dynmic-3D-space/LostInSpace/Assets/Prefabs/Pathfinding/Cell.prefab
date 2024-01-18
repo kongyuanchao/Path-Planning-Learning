@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0972c77244cf60b48b08237cafff7025, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  showAllNodes: 0
+  showAllNodes: 1
   debugColor: {r: 0, g: 0.13257027, b: 1, a: 1}
   useDebugColor: 1
   drawNeighbours: 0
