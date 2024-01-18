@@ -1,1 +1,1 @@
-Readme
+These projects is fork from https://github.com/CarinaKr. I do appriciate his contributes on AI Algorithem on path planning. These projects is awsome and help me a lot. I will spent few month on Unity and study some basic skill on it.
