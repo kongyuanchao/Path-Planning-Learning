@@ -1,0 +1,8 @@
+A* with epsilon 2
+
+reset
+distance travelled: 156,4276
+success
+
+:expanded: 348899:total algorithm time: 3670
+A* with epsilon 2
