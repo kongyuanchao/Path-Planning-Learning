@@ -1,1 +1,1 @@
-These projects was forked from https://github.com/CarinaKr. I do appriciate his contributes on AI Algorithem on path planning. These projects is awsome and help me a lot. I will spent few months on Unity and study some basic skills on it.
+19/1/2024 10:00 These projects was forked from https://github.com/CarinaKr. I do appriciate his contributes on AI Algorithem on path planning. These projects is awsome and help me a lot. I will spent few months on Unity and study some basic skills on it.
