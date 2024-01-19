@@ -47,6 +47,7 @@ public class CellGridManager : SearchGraphManager
                 for (int x = 0; x < searchLength; x++)
                 {
                     cellArray[x, y, z] = CellObject.Create(cellPrefab, transform, new Vector3(x, y, z) * cellSize, cellSize);
+                    //UnityEngine.Debug.Log($"Voxel size:  {cellSize} and Transform: {transform.position.ToString()}");
                 }
             }
         }
