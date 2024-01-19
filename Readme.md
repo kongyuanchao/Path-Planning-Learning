@@ -2,3 +2,5 @@
 
 
 19/1/2024 10:00 Fix folder rename locally and remotely. Don't modify the structure of the project when you pull or clone from remote repo. what would you do is alway using git.
+
+19/1/2024 24:00 Analyzing cell neighbours.

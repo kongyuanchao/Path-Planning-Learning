@@ -490,3 +490,463 @@ reset
 distance travelled: 0
 A* with epsilon 2
 :expanded: 2917:total algorithm time: 89
+A* with epsilon 2
+
+reset
+distance travelled: 41.74817
+:expanded: 13730:total algorithm time: 110
+A* with epsilon 2
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3229:total algorithm time: 376
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 161
+
+reset
+distance travelled: 0
+:expanded: 132895:total algorithm time: 859
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 1133:total algorithm time: 393
+
+reset
+distance travelled: 0
+success
+
+:expanded: 303005:total algorithm time: 2364
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 310
+
+reset
+distance travelled: 0
+success
+
+:expanded: 85874:total algorithm time: 1302
+
+reset
+distance travelled: 0
+success
+
+:expanded: 459596:total algorithm time: 2783
+
+reset
+distance travelled: 0
+success
+
+:expanded: 292372:total algorithm time: 1946
+
+reset
+distance travelled: 0
+success
+
+:expanded: 419447:total algorithm time: 2506
+
+reset
+distance travelled: 0
+success
+
+:expanded: 410160:total algorithm time: 2921
+
+reset
+distance travelled: 0
+success
+
+:expanded: 269779:total algorithm time: 2015
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 394
+
+reset
+distance travelled: 0
+success
+
+:expanded: 333723:total algorithm time: 2576
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 191
+
+reset
+distance travelled: 0
+success
+
+:expanded: 359777:total algorithm time: 2131
+
+reset
+distance travelled: 0
+success
+
+:expanded: 450387:total algorithm time: 2526
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3196:total algorithm time: 168
+
+reset
+distance travelled: 0
+success
+
+:expanded: 341705:total algorithm time: 2229
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3194:total algorithm time: 195
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 220
+
+reset
+distance travelled: 0
+success
+
+:expanded: 372886:total algorithm time: 1989
+
+reset
+distance travelled: 0
+success
+
+:expanded: 357973:total algorithm time: 2155
+
+reset
+distance travelled: 0
+success
+
+:expanded: 269742:total algorithm time: 1914
+
+reset
+distance travelled: 0
+success
+
+:expanded: 359427:total algorithm time: 2158
+
+reset
+distance travelled: 0
+success
+
+:expanded: 432323:total algorithm time: 2269
+
+reset
+distance travelled: 0
+success
+
+:expanded: 227526:total algorithm time: 1465
+
+reset
+distance travelled: 0
+success
+
+:expanded: 420860:total algorithm time: 2310
+
+reset
+distance travelled: 0
+success
+
+:expanded: 276912:total algorithm time: 1879
+
+reset
+distance travelled: 0
+success
+
+:expanded: 357708:total algorithm time: 1860
+
+reset
+distance travelled: 0
+success
+
+:expanded: 396237:total algorithm time: 2079
+
+reset
+distance travelled: 0
+success
+
+:expanded: 341536:total algorithm time: 1850
+
+reset
+distance travelled: 0
+success
+
+:expanded: 253363:total algorithm time: 1615
+
+reset
+distance travelled: 0
+success
+
+:expanded: 448756:total algorithm time: 2000
+
+reset
+distance travelled: 0
+success
+
+:expanded: 373937:total algorithm time: 2120
+
+reset
+distance travelled: 0
+success
+
+:expanded: 386487:total algorithm time: 2220
+
+reset
+distance travelled: 0
+success
+
+:expanded: 224415:total algorithm time: 1450
+
+reset
+distance travelled: 0
+success
+
+:expanded: 389396:total algorithm time: 2016
+
+reset
+distance travelled: 0
+success
+
+:expanded: 360822:total algorithm time: 1978
+
+reset
+distance travelled: 0
+success
+
+:expanded: 452533:total algorithm time: 2500
+
+reset
+distance travelled: 0
+success
+
+:expanded: 413096:total algorithm time: 2036
+
+reset
+distance travelled: 0
+success
+
+:expanded: 254727:total algorithm time: 1508
+
+reset
+distance travelled: 0
+:expanded: 247229:total algorithm time: 1256
+
+reset
+distance travelled: 0
+success
+
+:expanded: 326591:total algorithm time: 1938
+
+reset
+distance travelled: 0
+success
+
+:expanded: 312252:total algorithm time: 1653
+
+reset
+distance travelled: 0
+success
+
+:expanded: 241221:total algorithm time: 1816
+
+reset
+distance travelled: 0
+success
+
+:expanded: 305546:total algorithm time: 1969
+
+reset
+distance travelled: 0
+success
+
+:expanded: 317251:total algorithm time: 1691
+
+reset
+distance travelled: 0
+success
+
+:expanded: 491147:total algorithm time: 2489
+
+reset
+distance travelled: 0
+success
+
+:expanded: 352138:total algorithm time: 1897
+
+reset
+distance travelled: 0
+success
+
+:expanded: 389814:total algorithm time: 2247
+
+reset
+distance travelled: 0
+success
+
+:expanded: 383941:total algorithm time: 2081
+
+reset
+distance travelled: 0
+success
+
+:expanded: 329794:total algorithm time: 1867
+
+reset
+distance travelled: 0
+success
+
+:expanded: 284752:total algorithm time: 1880
+
+reset
+distance travelled: 0
+success
+
+:expanded: 193310:total algorithm time: 1384
+
+reset
+distance travelled: 0
+success
+
+:expanded: 429527:total algorithm time: 2285
+
+reset
+distance travelled: 0
+success
+
+:expanded: 234679:total algorithm time: 1434
+
+reset
+distance travelled: 0
+success
+
+:expanded: 258823:total algorithm time: 1642
+
+reset
+distance travelled: 0
+success
+
+:expanded: 246172:total algorithm time: 1458
+
+reset
+distance travelled: 0
+success
+
+:expanded: 616886:total algorithm time: 2876
+
+reset
+distance travelled: 0
+success
+
+:expanded: 281836:total algorithm time: 1920
+
+reset
+distance travelled: 0
+success
+
+:expanded: 327474:total algorithm time: 1865
+
+reset
+distance travelled: 0
+success
+
+:expanded: 554974:total algorithm time: 2549
+
+reset
+distance travelled: 0
+success
+
+:expanded: 391383:total algorithm time: 2106
+
+reset
+distance travelled: 0
+success
+
+:expanded: 304454:total algorithm time: 1846
+
+reset
+distance travelled: 0
+success
+
+:expanded: 312414:total algorithm time: 1652
+
+reset
+distance travelled: 0
+success
+
+:expanded: 343566:total algorithm time: 1741
+
+reset
+distance travelled: 0
+success
+
+:expanded: 323174:total algorithm time: 1764
+
+reset
+distance travelled: 0
+success
+
+:expanded: 189790:total algorithm time: 1508
+
+reset
+distance travelled: 0
+success
+
+:expanded: 402550:total algorithm time: 2103
+
+reset
+distance travelled: 0
+success
+
+:expanded: 361041:total algorithm time: 1803
+
+reset
+distance travelled: 0
+success
+
+:expanded: 402968:total algorithm time: 2122
+
+reset
+distance travelled: 0
+:expanded: 472668:total algorithm time: 1933
+
+reset
+distance travelled: 0
+success
+
+:expanded: 329929:total algorithm time: 1801
+
+reset
+distance travelled: 0
+success
+
+:expanded: 269638:total algorithm time: 1689
+
+reset
+distance travelled: 0
+success
+
+:expanded: 256073:total algorithm time: 1545
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3195:total algorithm time: 193
+
+reset
+distance travelled: 0
+:expanded: 240441:total algorithm time: 998
+
+reset
+distance travelled: 0
+:expanded: 69189:total algorithm time: 362

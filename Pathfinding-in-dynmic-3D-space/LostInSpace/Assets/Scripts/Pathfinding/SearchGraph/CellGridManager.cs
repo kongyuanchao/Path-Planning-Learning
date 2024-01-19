@@ -59,10 +59,14 @@ public class CellGridManager : SearchGraphManager
                 for (int x = 0; x < searchLength; x++)
                 {
                     cellArray[x, y, z].neighbours=Neighbours(x,y,z);
+                    UnityEngine.Debug.Log($"the cell has {cellArray[x, y, z].neighbours.Count} neighbours");
                     cellArray[x, y, z].predecessors = cellArray[x, y, z].neighbours;
+                    //UnityEngine.Debug.Log($"x: {x + 1}, y: {y + 1}, z: {z + 1} ");
                 }
             }
         }
+        UnityEngine.Debug.Log($"Width: {searchWidth}, Height: {searchHeight}, Length: {searchLength} = " +
+            $"{searchWidth * searchHeight * searchLength}");
 
         yield return StartCoroutine("CheckOccupation");
         SetNodes();

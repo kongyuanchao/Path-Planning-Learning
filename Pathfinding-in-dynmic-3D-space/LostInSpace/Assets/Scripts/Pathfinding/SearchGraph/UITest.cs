@@ -51,9 +51,9 @@ public class UITest : MonoBehaviour {
         //    Debug.Log("Inside collider1");
         //}
 
-        foreach (var item in colliders)
-        {
-            Debug.Log($"Collide Object:  {item.gameObject.name}" );
-        }
+        //foreach (var item in colliders)
+        //{
+        //    Debug.Log($"Collide Object:  {item.gameObject.name}");
+        //}
     }
 }
