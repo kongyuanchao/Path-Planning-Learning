@@ -950,3 +950,102 @@ distance travelled: 0
 reset
 distance travelled: 0
 :expanded: 69189:total algorithm time: 362
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2921:total algorithm time: 87
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 941:total algorithm time: 84
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2917:total algorithm time: 88
+
+reset
+distance travelled: 0
+success
+
+:expanded: 352066:total algorithm time: 1159
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3201:total algorithm time: 87
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2916:total algorithm time: 87
+
+reset
+distance travelled: 0
+success
+
+:expanded: 355993:total algorithm time: 1217
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 1132:total algorithm time: 85
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2917:total algorithm time: 89
+
+reset
+distance travelled: 0
+success
+
+:expanded: 83736:total algorithm time: 441
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 3201:total algorithm time: 87
+
+reset
+distance travelled: 0
+:expanded: 59748:total algorithm time: 282
+
+reset
+distance travelled: 0
+:expanded: 5221:total algorithm time: 47
+
+reset
+distance travelled: 0
+:expanded: 83007:total algorithm time: 309
+
+reset
+distance travelled: 0
+success
+
+:expanded: 104536:total algorithm time: 536
+
+reset
+distance travelled: 0
+:expanded: 3664:total algorithm time: 44
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2905:total algorithm time: 87
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 1207:total algorithm time: 91
+
+reset
+distance travelled: 0
+A* with epsilon 2
+:expanded: 2917:total algorithm time: 86
+
+reset
+distance travelled: 0
+A* with epsilon 2
